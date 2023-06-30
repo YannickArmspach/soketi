@@ -17,3 +17,4 @@ This example deploys self-hosted version of [Soketi](https://soketi.app).
 ## 📝 Notes
 - Source repo: https://github.com/soketi/soketi
 - Docs: https://docs.soketi.app/
+
